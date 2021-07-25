@@ -1,3 +1,4 @@
+//initial
 #include<iostream>
 #include<GL/glut.h>
 #include "bstClass.h"
